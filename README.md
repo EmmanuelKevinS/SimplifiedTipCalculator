@@ -1,0 +1,2 @@
+# SimplifiedTipCalculator
+Created with CodeSandbox
